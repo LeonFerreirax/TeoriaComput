@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Aplicativo/TeoriaComput/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/root/Aplicativo/TeoriaComput/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/TeoriaComput/TeoriaComput/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/root/TeoriaComput/TeoriaComput/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

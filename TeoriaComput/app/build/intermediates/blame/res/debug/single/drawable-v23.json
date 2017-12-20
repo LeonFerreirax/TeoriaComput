@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Aplicativo/TeoriaComput/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/root/Aplicativo/TeoriaComput/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/root/TeoriaComput/TeoriaComput/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/root/TeoriaComput/TeoriaComput/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
